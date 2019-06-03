@@ -1,0 +1,14 @@
+{
+  "client_id" : "3b119dc1-184a-4794-8e26-64164c2d215e",
+  "authorization_user_agent" : "DEFAULT",
+  "redirect_uri" : "msauth://com.azuresamples.msalandroidapp/O1u4hiZeZpG6%2Flt8yVi39E%2BJ%2Fj0%3D",
+  "authorities" : [
+    {
+      "type": "AAD",
+      "audience": {
+        "type": "AzureADMyOrg",
+        "tenant_id": "e66e7909-bf46-462c-aa90-4728d3a5a4c0"
+      }
+    }
+  ]
+}
